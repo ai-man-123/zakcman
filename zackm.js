@@ -1947,7 +1947,7 @@ let buttonMessageDevote = {
 image: log0,
 jpegThumbnail: thum,
 caption: teks_vote,
-footer: : "© lynxman",
+footer: "© lynxman",
 buttons: buttonsDevote,
 headerType: 1,
 mentions: menvote
